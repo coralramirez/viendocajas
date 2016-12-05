@@ -1,0 +1,95 @@
+/* Tu CSS va aqui */
+/*------header-----------*/
+hr{
+    width: 50px;
+    border: 1px solid rgba(0, 128, 0, 0.50); 
+}
+header{
+   background-image: url(../img/maxresdefault.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header a{
+    color: #fff;
+}
+.navbar-toggle{
+    background-color:rgba(0, 255, 59, 0.97);
+    
+}
+.navbar-toggle span{
+    background-color: #fff;
+}
+.hero{
+    color: #fff;
+    padding: 14% 0;
+}
+.hero button{
+    background: #00ff3b;
+}
+
+/*----section1-------------*/
+.section-1{
+    background: rgba(17, 235, 51, 0.52);
+}
+.section-1 a{
+    color: #fff;
+}
+
+/*-----section2------*/
+.section-2{
+    background: rgba(0, 255, 59, 0.67);
+    margin: -2% 0%;
+}
+/*-----section3-----*/
+.section-3 h2{
+    margin-top:7%;
+}
+.section-3 i{
+    font-size: 40px;
+    color: rgba(0, 255, 59, 0.84);
+    padding: 4%;
+    
+}
+/*-------section4------*/
+.section-4{
+ margin-top:3%;
+}
+
+.git-2{
+    padding: 0%;
+    background:
+    
+}
+.git-3{
+    text-align: center;
+    background: #222222;
+    padding: 2% 0%;
+}
+.git-3 h3{
+    color: #fff;
+}
+.git-3 button{
+    background: #fff;
+    color: #222222;
+    border-radius:5px;
+}
+/*-----footer------*/
+#color{
+    color: red;
+}
+.contacto {
+   font-size:40px;
+    text-align: center;
+}
+.contacto i{
+    padding: 10px;
+}
+.footer{
+    text-align: center;
+    
+} 
+
+
+    
+
+    
